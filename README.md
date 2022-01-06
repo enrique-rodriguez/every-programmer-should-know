@@ -107,7 +107,7 @@ But knowing the stuff will help you become better! :muscle:*
 - :movie_camera: [Entity-Component-System Architecture with Unity by example](https://www.youtube.com/watch?v=lNTaC-JWmdI&t=166s&list=PLZlJZzHmx31XvgT96DfbXQ4IMb1ryztbp&index=33)
 
 ### Engineering Philosophy
-- :movie_camera: [Category Theory in Life](https://www.youtube.com/watch?v=ho7oagHeqNc)
+- :heavy_check_mark: :movie_camera: [Category Theory in Life](https://www.youtube.com/watch?v=ho7oagHeqNc)
 - :movie_camera: [Simple Made Easy](https://www.infoq.com/presentations/Simple-Made-Easy)
 - :page_facing_up: [Speed In Software Development](https://www.targetprocess.com/articles/speed-in-software-development/)
 - :movie_camera: [#NoEstimates](https://www.youtube.com/watch?v=QVBlnCTu9Ms)
