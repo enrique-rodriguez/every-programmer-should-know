@@ -30,7 +30,7 @@ But knowing the stuff will help you become better! :muscle:*
   Check for things you do not know about Strings, Addresses, Names, Numbers, Emails, Timezones and Dates and more.
 
 ### Algorithms
-- [Big O Cheatsheet](http://bigocheatsheet.com/)
+- ✔️ [Big O Cheatsheet](http://bigocheatsheet.com/)
 - :book: [Grokking Algorithms](https://www.goodreads.com/book/show/22847284-grokking-algorithms-an-illustrated-guide-for-programmers-and-other-curio)
 - [Algorithms Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
